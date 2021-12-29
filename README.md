@@ -28,9 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/a/HhbC1XI.gif)
 
-<img src='https://imgur.com/a/HhbC1XI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/vqCqFVJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' width="150" height="450"/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -40,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
